@@ -4,9 +4,9 @@ A program that Resizes your image files (.jpg, .jpeg, .png, .gif) to half its or
 ## DOWNLOAD THE LATEST VERSION (v0.1)
 
 ## How to use?
-- Download the .py or exe
+- Download main.py or the exe file.
 - Put the program in the same folder which contains the images you want to resize.
-- **NOTE: The above mentioned folder can have files other than images and/or subfolders with image files. The program will just skip the other files**
+- **NOTE: The above mentioned folder can have files other than images and/or subfolders with image files. The program will just skip the other files.**
 - If you are using the python file, make sure you have the following libraries downloaded:
   1. os
   2. re
