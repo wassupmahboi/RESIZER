@@ -17,7 +17,7 @@ A program that Resizes your image files (.jpg, .jpeg, .png, .gif).
   1. termcolor
   2. sys
   3. builtins
-- If you don't really care about the color, run this [nocolor.py](#).
+- If you don't really care about the color, run this [nocolor.py](https://github.com/wassupmahboi/RESIZER/blob/main/nocolor.py).
 - It saves the images in the RESIZED_PHOTOS folder, which is outside the folder the program is in.
 
 ## USING THE EXE:
