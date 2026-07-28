@@ -1,6 +1,8 @@
 # RESIZER
 A program that Resizes your image files (.jpg, .jpeg, .png, .gif).
 
+<img width="1896" height="1023" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/da4e3fd4-9b83-4e02-abe3-b1098011e198" />
+
 ## [DOWNLOAD THE LATEST VERSION (v1.0)](https://github.com/wassupmahboi/RESIZER/releases)
 
 # USAGE:
@@ -23,3 +25,5 @@ A program that Resizes your image files (.jpg, .jpeg, .png, .gif).
 ## USING THE EXE:
 - If you are downloading [RESIZER.exe](https://github.com/wassupmahboi/RESIZER/releases), just click and enjoy :)
 - It saves the images in the RESIZED_PHOTOS folder, which is outside the folder the program is in.
+
+<img width="1920" height="927" alt="Screenshot 2026-07-28 235053" src="https://github.com/user-attachments/assets/5e11fd9f-59e9-4dd4-a8cd-99df5ccc0731" />
