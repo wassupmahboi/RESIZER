@@ -1,5 +1,5 @@
 # RESIZER
-A program that Resizes your image files (.jpg, .jpeg, .png, .gif).
+A program that Resizes multiple image files (.jpg, .jpeg, .png, .gif) at once.
 
 <img width="1896" height="1023" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/da4e3fd4-9b83-4e02-abe3-b1098011e198" />
 
